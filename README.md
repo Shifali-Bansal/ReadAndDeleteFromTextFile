@@ -1,2 +1,2 @@
-# ReadFromTextFile
-This code reads the data from text file and prints them.
+# ReadAndDeleteFromTextFile
+This code reads and delete the data from text file.
